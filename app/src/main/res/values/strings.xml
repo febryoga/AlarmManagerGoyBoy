@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AlarmAgoyBoy</string>
+    <string name="one_time_alarm">Alarm AgoyBoy</string>
+    <string name="alarm_date">Tanggal Alarm AgoyBoy</string>
+    <string name="set_one_time_alarm">Atur Alarm AgoyBoy</string>
+    <string name="alarm_message">Pesan Alarm AgoyBoy</string>
+    <string name="repeating_alarm">Ulangi Alarm AgoyBoy</string>
+    <string name="set_repeating_alarm">Ulangi Alarm AgoyBoy</string>
+    <string name="cancel_alarm">Batalkan Alarm AgoyBoy</string>
+    <string name="alarm_time">Waktu Alarm AgoyBoy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
